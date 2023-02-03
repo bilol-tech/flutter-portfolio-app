@@ -2,7 +2,7 @@
 
 - [x] This portfolio website has both dark and light.
        
-| <img src='https://user-images.githubusercontent.com/33403844/195586495-5c70d3de-e04f-4ef2-89b7-480053cddae1.png' width='500'>|<img src='https://user-images.githubusercontent.com/33403844/195587025-cf491027-cb3f-42d7-b6ca-fda6685ea489.png' width='500'> |
+| <img src='file:///Users/bilolabdunazarov8480gmail.com/Desktop/Screenshot%202023-02-04%20at%2004.39.48.png' width='500'>|<img src='https://user-images.githubusercontent.com/33403844/195587025-cf491027-cb3f-42d7-b6ca-fda6685ea489.png' width='500'> |
 |:---:|--------|
 
 - [x] Works on all desktops, tablets and mobiles
