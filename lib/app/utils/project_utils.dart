@@ -15,21 +15,32 @@ class ProjectUtils {
 
 List<ProjectUtils> projectUtils = [
   ProjectUtils(
-    banners: 'assets/imgs/02.png',
-    icons: 'assets/imgs/flutter.png',
-    titles: 'Awesome Social Media App',
-    description:
-        'This is a just a coffee App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/Bilol4391/online_coffee_app',
-  ),
-  ProjectUtils(
     banners: 'assets/imgs/1.png',
     icons: 'assets/imgs/flutter.png',
     titles: 'Awesome furniture UI',
     description:
-        'This is a just online furniture UI Design using Figma, file is also available, check below.',
+    'This is a just online furniture UI Design using Figma, file is also available, check below.',
     links: 'https://github.com/Bilol4391/online_furniture_shopping',
   ),
+
+  ProjectUtils(
+    banners: 'assets/imgs/05.png',
+    icons: 'assets/imgs/flutter.png',
+    titles: 'Awesome Walpapers UI',
+    description:
+    'This is a just Wallpapers UI Design using Figma, file is also available, check below.',
+    links: 'https://github.com/Bilol4391/awesome_wallpapers',
+  ),
+
+  ProjectUtils(
+    banners: 'assets/imgs/02.png',
+    icons: 'assets/imgs/flutter.png',
+    titles: 'Awesome Coffee App',
+    description:
+        'This is a just a coffee App by using flutter, source code is also available, check below.',
+    links: 'https://github.com/Bilol4391/online_coffee_app',
+  ),
+
   ProjectUtils(
     banners: 'assets/imgs/03.png',
     icons: 'assets/imgs/flutter.png',
