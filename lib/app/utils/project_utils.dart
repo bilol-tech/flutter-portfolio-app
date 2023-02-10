@@ -29,7 +29,7 @@ List<ProjectUtils> projectUtils = [
     titles: 'Awesome Walpapers UI',
     description:
     'This is a just Wallpapers UI Design using Figma, file is also available, check below.',
-    links: 'https://github.com/Bilol4391/awesome_wallpapers',
+    links: 'https://github.com/Bilol4391/wallpaper_app',
   ),
 
   ProjectUtils(
@@ -38,7 +38,7 @@ List<ProjectUtils> projectUtils = [
     titles: 'Awesome Coffee App',
     description:
         'This is a just a coffee App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/Bilol4391/online_coffee_app',
+    links: 'https://github.com/Bilol4391/online_coffee',
   ),
 
   ProjectUtils(
