@@ -2,7 +2,7 @@
 
 - [x] This portfolio website has both dark and light.
        
-| <img src='https://github.com/Bilol4391/flutter_portfolio_app/blob/main/assets/outputs/portfolio_app_dark_version.png' width='500'>|<img src='https://github.com/Bilol4391/flutter_portfolio_app/blob/main/assets/outputs/portfolio_app_light_version.png' width='500'> |
+| <img src='https://github.com/Bilol4391/online_coffee/blob/main/assets/readme/Screenshot%202023-02-03%20at%2004.11.22.png' width='500'>|<img src='https://github.com/Bilol4391/online_coffee/blob/main/assets/readme/Screenshot%202023-02-03%20at%2004.11.34.png' width='500'> |
 |:---:|--------|
 
 - [x] Works on all desktops, tablets and mobiles
